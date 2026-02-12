@@ -4,3 +4,4 @@ echo ".env" >> .gitignore
 echo ".DS_Store" >> .gitignore
 echo "*.ipynb_checkpoints" >> .gitignore
 echo "data/" >> .gitignore   # optional if you don’t want to push large datasets
+venv/
