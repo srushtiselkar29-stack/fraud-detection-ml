@@ -17,6 +17,14 @@ This project aims to:
 ---
 
 ## Dataset
+
+The dataset used in this project is the "Credit Card Fraud Detection" dataset from Kaggle.
+
+Download link:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+Place the downloaded CSV file inside the `data/` folder before running the project.
+
 - Contains credit card transactions (or banking transactions)
 - Features include transaction amount, time, user details, etc.
 - The dataset is **imbalanced**, with fraudulent transactions being rare
@@ -45,3 +53,4 @@ fraud-detection-ml/
 ```bash
 git clone https://github.com/srushtiselkar29-stack/fraud-detection-ml.git
 cd fraud-detection-ml
+
